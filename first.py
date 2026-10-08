@@ -23,3 +23,6 @@ print(name[1:15])
 
 print(name[1:15:2])
 print(name[::-1])
+
+name="pooja"
+print(name)
